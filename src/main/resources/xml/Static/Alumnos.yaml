@@ -1,0 +1,10 @@
+matriculacion:
+  -alumnos:
+    alumno: Joan
+    pc: 01
+
+  -asignaturas:
+    historia: 1
+    mates: 2
+
+

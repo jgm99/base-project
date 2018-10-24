@@ -1,0 +1,10 @@
+{
+  "matriculacion": {
+                     "alumnos": {
+
+                       "nombre":"John",
+                       "edad":"14",
+                       "asignatura", [ "historia"]
+                     }
+
+}

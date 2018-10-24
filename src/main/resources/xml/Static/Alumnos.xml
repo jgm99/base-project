@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<matriculacion>
+
+    <alumnos>
+        <alumno id="º001">
+            <Nombre>JOAN</Nombre>
+            <pc id="01" />
+            <asignaturas>
+                <asignatura id="1"/>
+                <asignatura id="2"/>
+            </asignaturas>
+        </alumno>
+    </alumnos>
+
+    <assignaturas>
+        <asignatura id="1">Historia</asignatura>
+        <asignatura id="2">Mates</asignatura>
+    </assignaturas>
+
+
+</matriculacion>
